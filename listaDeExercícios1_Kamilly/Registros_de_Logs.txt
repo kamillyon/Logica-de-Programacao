@@ -1,0 +1,5 @@
+Sistema Iniciado
+Analisando usuário...
+Usuário autenticado
+Processo finalizado
+Sistema fechado

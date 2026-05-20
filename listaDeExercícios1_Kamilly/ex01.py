@@ -1,0 +1,5 @@
+print("Seja bem-vindo aluno!")
+nome = input("Digite o seu nome completo: ")
+idade = input("Digite a sua idade (anos completos): ")
+email = input("Digite o seu e-mail educacional: ")
+print("\n=== FICHA DE", nome.upper(), "===", "\nNome do(a) aluno(a):", nome.title(), "\nIdade:", idade, "\nE-mail Educacional:", email, "\n===========================================")
