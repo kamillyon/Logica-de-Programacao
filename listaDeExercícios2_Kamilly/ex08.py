@@ -1,0 +1,5 @@
+print("=== Calculadora de IMC ===")
+peso = float(input("Digite o seu peso em quilogramas (kg): "))
+altura = float(input("Digite a sua altura em metros (m): "))
+imc = peso/(altura**2)
+print(f"Você possui {peso:.1f} kg e {altura}m, portanto você possui IMC igual a {imc:.1f}kg/m²")
